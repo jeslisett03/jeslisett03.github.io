@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/* CSS Document */
+body{background-color: antiquewhite;
+}
+img{
+	width:300px;
+}
+section{
+	 width:630px;
+	height:300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div {
+	float: left;
+	width:300px;
+	margin-left:10px;
+}
