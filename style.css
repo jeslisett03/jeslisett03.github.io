@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* CSS Document */
+
+a {
+	display:block;
+}
+
+body {
+	background-image:
+	url("background.jpg");
+}
